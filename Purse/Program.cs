@@ -14,6 +14,8 @@ namespace Purse
             Console.WriteLine(money.GetMoney());
             var credit = new CreditCard.CreditCard(500);
             Console.WriteLine(credit.GetSumCreditCard());
+
+            Console.WriteLine("Hello World!");
         }
     }
 }
