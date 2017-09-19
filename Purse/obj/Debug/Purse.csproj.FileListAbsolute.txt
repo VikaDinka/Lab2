@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Purse\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Purse\Purse\bin\Debug\Purse.exe.config
+C:\Users\asus\source\repos\Purse\Purse\bin\Debug\Purse.exe
+C:\Users\asus\source\repos\Purse\Purse\bin\Debug\Purse.pdb
+C:\Users\asus\source\repos\Purse\Purse\obj\Debug\Purse.exe
+C:\Users\asus\source\repos\Purse\Purse\obj\Debug\Purse.pdb
